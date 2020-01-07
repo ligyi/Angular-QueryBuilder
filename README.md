@@ -7,15 +7,15 @@ A modernized Angular 4+ query builder based on jQuery QueryBuilder. Support for 
 `npm install angular2-query-builder`
 
 ## Demo
-Play with the [demo here](https://zebzhao.github.io/Angular-QueryBuilder/demo/).
+Play with the [demo here](https://ligyi.github.io/Angular-QueryBuilder/demo/).
 
-[Editable demo](https://zebzhao.github.io/Angular-QueryBuilder/editor/)
+[Editable demo](https://ligyi.github.io/Angular-QueryBuilder/editor/)
 
 [See the Plunker](https://plnkr.co/edit/vtzerj4oFQLB6ukcxb9D?p=preview)
 
 ## Documentation
 
-[Documentation link](https://zebzhao.github.io/Angular-QueryBuilder/)
+[Documentation link](https://ligyi.github.io/Angular-QueryBuilder/)
 
 # Examples
 
